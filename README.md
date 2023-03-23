@@ -1,7 +1,7 @@
 # C-Uzdevumi
-50 uzdevumi c++ valodā
+### 50 uzdevumi c++ valodā
+Sofija Dišlovaja 2PT1
 
-Repozitorijas saturs:
 
 ## Viegli uzdevumi
 
